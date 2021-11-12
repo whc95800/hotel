@@ -8,7 +8,7 @@
   margin: 0;
   padding: 0;
 }
-a{
+a,h1{
   color: white;
   font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN",HGS明朝E,メイリオ,Meiryo,serif;}
 p,h2{
